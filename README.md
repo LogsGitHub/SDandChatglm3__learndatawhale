@@ -1,1 +1,2 @@
 # SDandChatglm3__learndatawhale
+在此log记录参加datawhale社区chatglm、SD项目实践活动学到的内容。
